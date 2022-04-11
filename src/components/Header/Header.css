@@ -1,0 +1,10 @@
+.navigation {
+    padding: 20px 30px;
+}
+
+.navigation .nav-link {
+    text-decoration: none;
+    margin-left: 15px;
+    font-size: large;
+    font-weight: 600;
+}
