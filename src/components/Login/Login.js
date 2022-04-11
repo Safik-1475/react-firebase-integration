@@ -12,7 +12,9 @@ const Login = () => {
                     <br />
                     <input type="password" placeholder='Password' required />
                     <br />
-                    <input type="submit" value="Login" onClick={signInGoogle} />
+                    <input type="submit" value="Login" />
+                    <br />
+                    <button onClick={signInGoogle}>Sign In Google</button>
                 </form>
             </fieldset>
         </div>
